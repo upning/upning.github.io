@@ -836,7 +836,7 @@ td,
 th,
 a {
   color: #444;
-  font-family: /*"Lantinghei SC", "Helvetica Neue",Tahoma,Helvetica,Arial,"FZLanTingHei","方正兰亭黑","Microsoft Yahei","微软雅黑","Hiragino Sans GB","冬青黑体",STXiHei,"华文细黑",*/'Helvetica Neue',Helvetica,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',Arial,sans-serif;
+  font-family: 'Helvetica Neue',Helvetica,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',Arial,sans-serif;
   font-weight: normal;
   letter-spacing: 0.6px;
   padding: 0;
